@@ -1,0 +1,7 @@
+"models/*.pt" 
+"__pycache__/" 
+"*.pyc" 
+".env" 
+"*.jpg" 
+"*.jpeg" 
+"*.png" 
